@@ -9,7 +9,6 @@ html {
   -moz-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
-  font-family: 'Open Sans', sans-serif;
 }
 
 *, *::before, *::after {
@@ -33,23 +32,17 @@ body {
 }
 
 .watermelon h2 {
-  font-family: 'Rammetto One', cursive;
+  font-family: "Rammetto One", cursive;
 }
 
 .starfruit h2 {
-  font-family: 'Gravitas One', cursive;
+  font-family: "Gravitas One", cursive;
 }
 
 .persimmon h2 {
   font-family: 'Comfortaa', cursive;
 }
 
-/* font-family: 'Open Sans', sans-serif;
-
-
-
-
-
-font-family: 'Comfortaa', cursive;
-
-background-color:*/
+p {
+  font-family: "Open Sans", sans-serif;
+}

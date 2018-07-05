@@ -20,6 +20,18 @@ body {
   margin: 0;
 }
 
+.watermelon {
+  background-color: #e97065;
+}
+
+.starfruit {
+  background-color: #fbd25e;
+}
+
+.persimmon {
+  background-color: #e86033;
+}
+
 /* font-family: 'Open Sans', sans-serif;
 
 font-family: 'Gravitas One', cursive;
